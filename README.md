@@ -1,1 +1,1 @@
-# Earthquakes_in_kenya_data
+Python script that gives information about seismic activity in Kenya
